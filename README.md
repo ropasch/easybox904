@@ -1,10 +1,12 @@
+
 # Liberate your EasyBox 904 xDSL
 ## Use it with every Provider without MIC (Modem Installation Code)
 
 This is a step by step guide to open your easybox 904 xDSL for the usage with every provider (Telekom, 1&1 etc). This Guide is only supported for the 904 xDSL (the firmware of the 804 is protected by encryption and cannot be modified this easy, the 904 LTE could work). The Guide will also work with almost any vectoring connection.
 
-From here on you have five options:
+From here on you have six options:
 
+0. [Quicker and easier](https://github.com/ropasch/easybox904/blob/master/guides/simpler.md) guide, uses the original Vodafone firmware(with SSH enabled by default) with every ISP.
 1. [Quick and easy](https://github.com/majuss/easybox904/blob/master/guides/simple.md) guide, uses the original Vodafone firmware with every ISP. [Also available in german](https://github.com/majuss/easybox904/blob/master/guides/german.md)
 2. [OpenWrt](https://github.com/majuss/easybox904/blob/master/guides/openwrt.md) for advanced usage, tuning and best performance (SIP is not working).
 3. [Create](https://github.com/majuss/easybox904/blob/master/guides/create.md) your own modified Vodafone firmware image, which works with every ISP.
